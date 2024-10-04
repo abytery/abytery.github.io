@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abytery.github.io/sitemap.html.gz
+Sitemap: https://abytery.github.io/app/sitemap.html.gz
+Sitemap: https://abytery.github.io/assets/sitemap.html.gz
+Sitemap: https://abytery.github.io/css/sitemap.html.gz
+Sitemap: https://abytery.github.io/data/sitemap.html.gz
+Sitemap: https://abytery.github.io/includes/sitemap.html.gz
+Sitemap: https://abytery.github.io/item/sitemap.html.gz
+Sitemap: https://abytery.github.io/src/sitemap.html.gz
